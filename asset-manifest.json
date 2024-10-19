@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hw-three-data-viz/static/css/main.7b572559.css",
+    "main.js": "/hw-three-data-viz/static/js/main.d0e532e7.js",
+    "static/media/tips.csv": "/hw-three-data-viz/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/hw-three-data-viz/index.html",
+    "main.7b572559.css.map": "/hw-three-data-viz/static/css/main.7b572559.css.map",
+    "main.d0e532e7.js.map": "/hw-three-data-viz/static/js/main.d0e532e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b572559.css",
+    "static/js/main.d0e532e7.js"
+  ]
+}
